@@ -1,1 +1,2 @@
 # Whispers-of-the-Web
+"Whispers of the Web" is a dynamic visual simulation where abstract spiders create intricate, organic patterns based on noise functions and motion. You can use this program as a live wallpaper, allowing the fluid and mesmerizing movement to continuously evolve on your screen. Simply run the script to watch the spiders follow your mouse and weave their web-like trails in real-time.
